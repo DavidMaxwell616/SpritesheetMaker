@@ -1,0 +1,9 @@
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\bin\Debug\SpritesheetMaker.exe.config
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\bin\Debug\SpritesheetMaker.exe
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\bin\Debug\SpritesheetMaker.pdb
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.csprojResolveAssemblyReference.cache
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.Properties.Resources.resources
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.csproj.GenerateResource.Cache
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.exe
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.pdb
+C:\Users\maxxd_000\Documents\Visual Studio 2012\Projects\SpritesheetMaker\SpritesheetMaker\obj\Debug\SpritesheetMaker.Form1.resources
